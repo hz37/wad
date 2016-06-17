@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463100575 source:c:\users\hens\documents\wad\wad noise\main.cpp
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1463100426 source:c:\users\hens\documents\wad\wad noise\wad2.rc
+
